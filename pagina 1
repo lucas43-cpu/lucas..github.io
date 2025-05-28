@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Academia FitLife</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Academia FitLife</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="avisos.html">Avisos</a>
+      <a href="login.html">Área do Aluno</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Bem-vindo à Academia FitLife</h2>
+      <p>Transforme sua vida com saúde e bem-estar.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Academia FitLife. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
